@@ -6,7 +6,7 @@ import Navbar from './components/navbar/Navbar.vue'
 
 const data = ref([
     { id: 1, img: '/vue.svg', alt: 'Vue', desc: 'Vue', color: '#41b883', },
-    { id: 2, img: '/vue.svg', alt: 'Vueuse', desc: 'Vueuse', color: '#41b883', },
+    { id: 2, img: '/vueuse.svg', alt: 'Vueuse', desc: 'Vueuse', color: '#41b883', },
     { id: 3, img: '/vite.svg', alt: 'Vite', desc: 'Vite', color: '#9d5cfe', },
     { id: 4, img: '/tailwindcss.svg', alt: 'Tailwind CSS', desc: 'Tailwind CSS', color: '#38bdf8', },
     { id: 5, img: '/sun-moon.svg', img2: '/sun-moon-white.svg', alt: 'Sun and Moon', desc: 'Dark Mode with Tailwind CSS', color: '#1f2937', color2: '#f3f4f6' },
