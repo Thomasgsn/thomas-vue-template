@@ -4,7 +4,15 @@ export default {
   darkMode: "class",
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        "dark-background": "#18181b",
+        "light-background": "#f1f5f9",
+      },
+      animation: {
+        "spin-slow": "spin 4s linear infinite",
+      },
+    },
   },
   plugins: [],
 };
